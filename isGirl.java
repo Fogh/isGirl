@@ -18,7 +18,7 @@ public abstract class isGirl
      */
     public static boolean isGirl(String name)
     {
-        name.toLowerCase();
+        name = name.toLowerCase();
         for (int i = 0; i< femaleNames.length ; i++)
         {
             if(name.equals(femaleNames[i]))
