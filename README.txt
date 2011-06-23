@@ -5,8 +5,8 @@ The list of names is from the danish list of all approved girl names.
 List of supported languages:
 - Java
 - Javascript
+- PHP
 
 List of languages to come:
-- PHP
 - C#
 - Objective-C
