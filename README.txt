@@ -6,7 +6,12 @@ List of supported languages:
 - Java
 - Javascript
 - PHP
+<<<<<<< HEAD
 
 List of languages to come:
+=======
+>>>>>>> Added C# version!
 - C#
+
+List of languages to come:
 - Objective-C
