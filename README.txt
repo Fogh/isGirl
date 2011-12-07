@@ -7,6 +7,8 @@ List of supported languages:
 - Javascript
 - PHP
 - C#
+- Python
+- Visual Basic
 
 List of languages to come:
 - Objective-C
