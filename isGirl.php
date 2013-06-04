@@ -16,17 +16,8 @@ class isGirl {
      * @param name
      * @return true if girls name
      */
-    public  function isGirl($name)
-    {
-        $name = strtolower($name);
-        for ($i = 0; $i < count($this->femaleNames) ; $i++)
-        {
-            if($name == $femaleNames[$i]))
-            {
-                return true;
-            }
-        }
-        return false;
+    public  function isGirl($name) {
+        return in_array( strtolower( $name ), $this->femaleNames );
     }
 }
 ?>
