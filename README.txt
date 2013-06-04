@@ -12,3 +12,5 @@ List of supported languages:
 
 List of languages to come:
 - Objective-C
+
+Feel free to submit pull requests with more languages!
