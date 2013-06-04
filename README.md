@@ -5,9 +5,9 @@ Code in different languages to check if a given name is a girls name, and return
 
 ------
 
-The list of names is from the danish list of all approved girl names.
+The list of names are from the Danish list of all approved girl names.
 
-## List of supported languages:
+## List of supported languages
 * Java
 * Javascript
 * PHP
@@ -15,7 +15,7 @@ The list of names is from the danish list of all approved girl names.
 * Python
 * Visual Basic
 
-## List of languages to come:
+## List of languages to come
 * Objective-C
 
 Feel free to submit pull requests with more languages!
