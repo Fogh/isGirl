@@ -5,7 +5,7 @@
  * andfogh@gmail.com
  * 
  * Check if name is a girls name.
- * All names is from the danish list of approved girl names
+ * All names are from the danish list of approved girl names
  */
 
 public abstract class isGirl
