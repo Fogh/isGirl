@@ -1,6 +1,6 @@
 /**
  * Check if name is a girls name
- * All names is from the danish list of approved girl names
+ * All names are from the danish list of approved girl names
  * @version 1.0
  * @author Fogh
  * andfogh@gmail.com
@@ -14,7 +14,7 @@ public abstract class isGirl
     /**
      * Check if name is a girls name
      * @param name
-     * @return true if girls name
+     * @return true if girl name
      */
     public static boolean isGirl(String name)
     {
