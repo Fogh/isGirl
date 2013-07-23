@@ -16,16 +16,11 @@ public abstract class isGirl
      * @param name
      * @return true if girl name
      */
-    public static boolean isGirl(String name)
-    {
-        name = name.toLowerCase();
-        for (int i = 0; i< femaleNames.length ; i++)
-        {
-            if(name.equals(femaleNames[i]))
-            {
+    public static boolean isGirl(String name) {
+        for (String s : femaleNames)
+            if (s.equalsIgnoreCase(name))
                 return true;
-            }
-        }
+        
         return false;
     }
 }
