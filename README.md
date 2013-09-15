@@ -14,6 +14,8 @@ The list of names are from the Danish list of all approved girl names.
 * C#
 * Python
 * Visual Basic
+* Bash
+* C
 
 ## List of languages to come
 * Objective-C
