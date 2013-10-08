@@ -17,7 +17,4 @@ The list of names are from the Danish list of all approved girl names.
 * Bash
 * C
 
-## List of languages to come
-* Objective-C
-
-Feel free to submit pull requests with more languages!
+**Feel free to submit pull requests with more languages!**
